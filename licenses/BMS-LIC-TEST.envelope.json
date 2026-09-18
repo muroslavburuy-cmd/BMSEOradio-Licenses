@@ -1,0 +1,29 @@
+{
+    "alg": "Ed25519",
+    "kid": "ed25519:v1",
+    "payload": {
+        "device_hash": "bmseo:deadbeef",
+        "expires_at": 1789676940,
+        "features": [
+            "Advertising",
+            "AirAlert",
+            "MinuteOfSilence",
+            "Radio",
+            "RemoteControl",
+            "Scheduler",
+            "Streams"
+        ],
+        "installation_id": "inst-test",
+        "issued_at": 1789673340,
+        "issuer": "selftest",
+        "kid": "ed25519:v1",
+        "license_id": "BMS-LIC-TEST",
+        "license_type": "TRIAL",
+        "product_id": "BMSEOradio",
+        "request_id": "BMS-REQ-TEST",
+        "revision": 2,
+        "status": "ACTIVE",
+        "valid_from": 1789673340
+    },
+    "signature": "c9AdpwYu+MAKTZ5hdrvEMSBSUKlKhnmNXKLKsGLcyrlI492qbyiaYDoaFgYNv0Ef+6/PpEkHe2FbtblSwSNqCg=="
+}
