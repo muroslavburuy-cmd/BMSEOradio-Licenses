@@ -1,0 +1,24 @@
+{
+    "alg": "Ed25519",
+    "kid": "ed25519:v1",
+    "payload": {
+        "device_hash": "bmseo:451365c5ebe753dc8436cbd3d83cc1931de0d7545fbb3e56570182b9c6603e77",
+        "expires_at": 1820919310,
+        "features": [
+            "Plugin",
+            "WordPress"
+        ],
+        "installation_id": "fadc91bb-dbbc-49db-958f-ab397a0b2342",
+        "issued_at": 1789383310,
+        "issuer": "BMSEO License Manager",
+        "kid": "ed25519:v1",
+        "license_id": "BMS-LIC-93BEBBA866",
+        "license_type": "STANDARD",
+        "product_id": "tsaruk-school-hub",
+        "request_id": "BMS-REQ-4DBCC42D",
+        "revision": 1,
+        "status": "ACTIVE",
+        "valid_from": 1789383310
+    },
+    "signature": "8WC6nuFELXJbFSb7CF71dNf2n0ifXKgj1Cl0K67A8a9c5mklQfBQR4fzqFDvqG7IewTIfxME9KO6GfxwxwDRCA=="
+}
