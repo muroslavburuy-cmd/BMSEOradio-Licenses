@@ -1,0 +1,11 @@
+{
+    "cmd": "none",
+    "device_hash": "bmseo:deadbeef",
+    "kid": "ed25519:v1",
+    "license_id": "BMS-LIC-TEST",
+    "rev": 2,
+    "sig": "8Q+0dD39MvqEVq3cItcFgdB27QDXhHjiUk05ozWikdSyEa8MCj/DeVvMVY2EEBs4J1ArDrjMM446M+7q4fKXCA==",
+    "status": "ACTIVE",
+    "updated_utc": 1789710030,
+    "v": 1
+}
