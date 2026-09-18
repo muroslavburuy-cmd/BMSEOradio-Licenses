@@ -1,0 +1,24 @@
+{
+    "alg": "Ed25519",
+    "kid": "ed25519:v1",
+    "payload": {
+        "device_hash": "bmseo:b718e089914f0038b8f7e358d5a1dfc5ab3bfaab41ae05e6dbb2acf1fa1a3b39",
+        "expires_at": 1820896721,
+        "features": [
+            "Plugin",
+            "WordPress"
+        ],
+        "installation_id": "ddb76389-a54f-4be3-bd74-1ef5adfd2950",
+        "issued_at": 1789360721,
+        "issuer": "BMSEO License Manager",
+        "kid": "ed25519:v1",
+        "license_id": "BMS-LIC-6B7DF79838",
+        "license_type": "STANDARD",
+        "product_id": "rkb-price-book",
+        "request_id": "BMS-REQ-7CDF7211",
+        "revision": 1,
+        "status": "ACTIVE",
+        "valid_from": 1789360721
+    },
+    "signature": "28a57cpPf/0Mg842d1EgsA5nQ61RmK1cRbTE4wQv5TOf96Ce3XkWcqBEkb+sk6MP7TJoMUWxC2SRcEbjXH7CDw=="
+}
