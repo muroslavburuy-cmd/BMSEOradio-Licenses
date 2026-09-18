@@ -1,0 +1,29 @@
+{
+    "alg": "Ed25519",
+    "kid": "ed25519:v1",
+    "payload": {
+        "device_hash": "bmseo:f45d2b3e1a7e93acaf7217f05a662e7511e27a2476003de568d439e7817eea4d",
+        "expires_at": 1820644799,
+        "features": [
+            "Advertising",
+            "AirAlert",
+            "MinuteOfSilence",
+            "Radio",
+            "RemoteControl",
+            "Scheduler",
+            "Streams"
+        ],
+        "installation_id": "0ba841c2-b20c-41ed-9352-4d8257277962",
+        "issued_at": 1789108799,
+        "issuer": "BMSEO License Manager",
+        "kid": "ed25519:v1",
+        "license_id": "BMS-LIC-5729D00926",
+        "license_type": "PRO",
+        "product_id": "BMSEOradio",
+        "request_id": "BMS-LEGACY-39e7817eea4d",
+        "revision": 1,
+        "status": "ACTIVE",
+        "valid_from": 1789108799
+    },
+    "signature": "71mArGYBfLxHUNyE3+L5UCzwyKpQIWnnbvZ8z1Xv3LFJj5TlrIf7hJj/7aikYwHnNAx0ogK2iV8u2L/bHKbsCA=="
+}
