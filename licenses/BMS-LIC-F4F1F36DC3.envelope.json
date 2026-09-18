@@ -1,0 +1,24 @@
+{
+    "alg": "Ed25519",
+    "kid": "ed25519:v1",
+    "payload": {
+        "device_hash": "bmseo:a6747fda798a64851af872c9e722c43b9639579b5370dd07f9e54a4819cf2df9",
+        "expires_at": 1820919479,
+        "features": [
+            "Plugin",
+            "WordPress"
+        ],
+        "installation_id": "95abaa72-92b4-4039-9e71-75c3ab7b7c95",
+        "issued_at": 1789383479,
+        "issuer": "BMSEO License Manager",
+        "kid": "ed25519:v1",
+        "license_id": "BMS-LIC-F4F1F36DC3",
+        "license_type": "STANDARD",
+        "product_id": "tsaruk-telegram-bot",
+        "request_id": "BMS-REQ-1EC5B57D",
+        "revision": 1,
+        "status": "ACTIVE",
+        "valid_from": 1789383479
+    },
+    "signature": "UE2OR9lEdNbo0p0xDXIoDtd8CIgnp40gUaIfA5Xl7Xk4ysVtnPa5ZlKnk1Q8J69N3T8Nys4nhccuaYliWhRpAA=="
+}
