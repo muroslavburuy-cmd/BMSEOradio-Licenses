@@ -1,0 +1,24 @@
+{
+    "alg": "Ed25519",
+    "kid": "ed25519:v1",
+    "payload": {
+        "device_hash": "bmseo:abf1c705e216875dbb0efe4f52f31d8ea02e852b71d8b1270d6ef134cec85d0c",
+        "expires_at": 1820919268,
+        "features": [
+            "Plugin",
+            "WordPress"
+        ],
+        "installation_id": "6b38e6e6-39e1-483a-9f29-3cb818b56ad7",
+        "issued_at": 1789383268,
+        "issuer": "BMSEO License Manager",
+        "kid": "ed25519:v1",
+        "license_id": "BMS-LIC-CA4A8874AF",
+        "license_type": "STANDARD",
+        "product_id": "tsaruk-certificates",
+        "request_id": "BMS-REQ-940A26DF",
+        "revision": 1,
+        "status": "ACTIVE",
+        "valid_from": 1789383268
+    },
+    "signature": "OtxiR9+YmXbPCMYQNk6V0KpewcedhvbWHqKMesshw32F/kZ5UB+gVr+yz2VrzJ95naVumw3RccuU2s96iBwDDQ=="
+}
