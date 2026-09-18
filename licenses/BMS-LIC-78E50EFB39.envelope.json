@@ -1,0 +1,24 @@
+{
+    "alg": "Ed25519",
+    "kid": "ed25519:v1",
+    "payload": {
+        "device_hash": "bmseo:cdf6393420fb47a4d4417982db706a646203d1e0425d74f5aac32fc5aaad22be",
+        "expires_at": 1820896788,
+        "features": [
+            "Plugin",
+            "WordPress"
+        ],
+        "installation_id": "ef750345-0980-45f6-a9fa-817b578067eb",
+        "issued_at": 1789360788,
+        "issuer": "BMSEO License Manager",
+        "kid": "ed25519:v1",
+        "license_id": "BMS-LIC-78E50EFB39",
+        "license_type": "STANDARD",
+        "product_id": "rkb-telegram-leads",
+        "request_id": "BMS-REQ-AFEBE7FC",
+        "revision": 1,
+        "status": "ACTIVE",
+        "valid_from": 1789360788
+    },
+    "signature": "Ys3rhNLRJbBkZdvfnnhjYE0oTL7y+TTHVySoVuHRnRTWGIHVzfF8H/Bu2+FAmLkekiPVASD2Ys/4ejfQpSXxAA=="
+}
