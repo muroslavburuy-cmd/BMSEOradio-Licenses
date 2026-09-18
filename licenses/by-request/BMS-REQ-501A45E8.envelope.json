@@ -1,0 +1,24 @@
+{
+    "alg": "Ed25519",
+    "kid": "ed25519:v1",
+    "payload": {
+        "device_hash": "bmseo:125694e08002d430e8baa0c487fccf6e0c9e5d27ae1e8f5061e656ce21ed5feb",
+        "expires_at": 1820896612,
+        "features": [
+            "Plugin",
+            "WordPress"
+        ],
+        "installation_id": "3b98ebc4-9b41-4305-8235-1d4ff4c36a83",
+        "issued_at": 1789360612,
+        "issuer": "BMSEO License Manager",
+        "kid": "ed25519:v1",
+        "license_id": "BMS-LIC-EDB2E23597",
+        "license_type": "STANDARD",
+        "product_id": "remkombud-seo",
+        "request_id": "BMS-REQ-501A45E8",
+        "revision": 1,
+        "status": "ACTIVE",
+        "valid_from": 1789360612
+    },
+    "signature": "wklyccW+KaXIBkF480NWIyEmp+xbkOoa4ZasxNVgje+29q101BB0g069dweg5LoQYegxZb+cZIUOqXW6uPV1CQ=="
+}
