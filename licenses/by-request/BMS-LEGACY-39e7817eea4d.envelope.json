@@ -3,7 +3,7 @@
     "kid": "ed25519:v1",
     "payload": {
         "device_hash": "bmseo:f45d2b3e1a7e93acaf7217f05a662e7511e27a2476003de568d439e7817eea4d",
-        "expires_at": 1825828799,
+        "expires_at": 1823236799,
         "features": [
             "Advertising",
             "AirAlert",
@@ -21,9 +21,9 @@
         "license_type": "PRO",
         "product_id": "BMSEOradio",
         "request_id": "BMS-LEGACY-39e7817eea4d",
-        "revision": 3,
+        "revision": 2,
         "status": "ACTIVE",
         "valid_from": 1789108799
     },
-    "signature": "h27lIOV6H5PP2T8sYCv0Xs8yYWxFSy2ONRovE7DsMS3O8eMyMLmiEfUWNMk/zK/03V4nMgnpt6cJN8EThEUzDg=="
+    "signature": "Y9YJc4V4d9ZGcl0hiwga4FCWA/jV/J/PFgAVTRpySf9A4y44XzryXWp7IoESNvvopEkT/5wtEafUoa4uSTxgCg=="
 }
