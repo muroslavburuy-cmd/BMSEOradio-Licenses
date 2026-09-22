@@ -16,9 +16,9 @@
         "license_type": "STANDARD",
         "product_id": "betonx-blog",
         "request_id": "BMS-REQ-890A6B87",
-        "revision": 3,
-        "status": "ACTIVE",
+        "revision": 4,
+        "status": "REVOKED",
         "valid_from": 1789311170
     },
-    "signature": "6yF5AQg+/9JBx4K1sP/vM+aVedo/uKe87JRlh4d2NUR1/C2YOeZt+ZLsAsWCrinf8ELW8ZKTmyyRJQy/Ocj6AA=="
+    "signature": "SgRUuLJQu7romHu+hGs6UfENUtjRniJ4YIyIKiO8Xq420+LuRh0+Ys/qdP+QNUX8kO1bmKZGPRuWAaX3ZYNNAw=="
 }
