@@ -1,5 +1,11 @@
 {
+    "cmd": "none",
+    "device_hash": "bmseo:8035dd75f02c292ef6248e1dd064712c79953ca4deb5323ee099a6aa87af912d",
+    "kid": "ed25519:v1",
     "license_id": "BMS-LIC-4BC2D4B624",
-    "revision": 1,
-    "status": "ACTIVE"
+    "rev": 1,
+    "sig": "nKkgJC0NTIQpE7dq9KeX8E6Q9ztiMzVrNtIA+EAHLcC2Etq42Befz+fM2qvNSre61qev2dhlHdmlU335bCtFBw==",
+    "status": "ACTIVE",
+    "updated_utc": 1790057213,
+    "v": 1
 }
