@@ -1,0 +1,24 @@
+{
+    "alg": "Ed25519",
+    "kid": "ed25519:v1",
+    "payload": {
+        "device_hash": "bmseo:54a5e1e98a948639f05c66e33f33cf45ea7f1f2681e6de604e4f5095bdebab57",
+        "expires_at": 1822033244,
+        "features": [
+            "Plugin",
+            "WordPress"
+        ],
+        "installation_id": "f0707755-01cd-45aa-a7cd-570a8229f5c8",
+        "issued_at": 1790497244,
+        "issuer": "BMSEO Licence Manager",
+        "kid": "ed25519:v1",
+        "license_id": "BMS-LIC-23E1D906AD",
+        "license_type": "STANDARD",
+        "product_id": "mercedes-seo",
+        "request_id": "BMS-REQ-EF248E7C",
+        "revision": 1,
+        "status": "ACTIVE",
+        "valid_from": 1790497244
+    },
+    "signature": "X+rLUCAlDokRZwR0XD5YKrtGFMaWBhRHIgQDTgsKZIPzocCRCm0Uk5CWG3m7q+dlqf4q07DW7ODhc/FmNRv0Bw=="
+}
