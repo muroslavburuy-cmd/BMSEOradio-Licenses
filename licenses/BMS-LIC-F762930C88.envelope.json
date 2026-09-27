@@ -1,0 +1,24 @@
+{
+    "alg": "Ed25519",
+    "kid": "ed25519:v1",
+    "payload": {
+        "device_hash": "bmseo:e5c757dd98d522c36a91a972b89c417c5693396bb7a429275a3aebe6086a1e0a",
+        "expires_at": 1822033163,
+        "features": [
+            "Plugin",
+            "WordPress"
+        ],
+        "installation_id": "42c356a4-ae31-4b10-bc6b-6cb54a04d0de",
+        "issued_at": 1790497163,
+        "issuer": "BMSEO Licence Manager",
+        "kid": "ed25519:v1",
+        "license_id": "BMS-LIC-F762930C88",
+        "license_type": "STANDARD",
+        "product_id": "mercedes-images",
+        "request_id": "BMS-REQ-058517B4",
+        "revision": 1,
+        "status": "ACTIVE",
+        "valid_from": 1790497163
+    },
+    "signature": "NUUBIuzoU2Sh9Nu55lAa15YvgHJj53ij77+z82oOkIj4firvngbOqu6TKRMyar5BIWSCYAtRrsf0on26G98CAw=="
+}
