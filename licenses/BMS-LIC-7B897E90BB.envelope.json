@@ -1,0 +1,24 @@
+{
+    "alg": "Ed25519",
+    "kid": "ed25519:v1",
+    "payload": {
+        "device_hash": "bmseo:e01ad88562ccbb39f5466ec6f037376e9145e49eee565b96e9ae8c1b66a28a90",
+        "expires_at": 1822033093,
+        "features": [
+            "Plugin",
+            "WordPress"
+        ],
+        "installation_id": "4bbd622a-9d85-4ee5-8642-7786a80e3119",
+        "issued_at": 1790497093,
+        "issuer": "BMSEO Licence Manager",
+        "kid": "ed25519:v1",
+        "license_id": "BMS-LIC-7B897E90BB",
+        "license_type": "STANDARD",
+        "product_id": "mercedes-blog",
+        "request_id": "BMS-REQ-87B005BA",
+        "revision": 1,
+        "status": "ACTIVE",
+        "valid_from": 1790497093
+    },
+    "signature": "nN6lj0Xh1Zq1xnQjEot0rPh58AMHxVNjS4nF7bV3xK5ZoZtMQLjs2ggjNf2Mg9r6dEOnMrfaTg8+HSTV0gzUDQ=="
+}
