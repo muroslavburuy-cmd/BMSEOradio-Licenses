@@ -1,0 +1,24 @@
+{
+    "alg": "Ed25519",
+    "kid": "ed25519:v1",
+    "payload": {
+        "device_hash": "bmseo:02374069c1927e64c96a44f507ee830b21588ef9e17870519a9d2174622576ab",
+        "expires_at": 1822283605,
+        "features": [
+            "Plugin",
+            "WordPress"
+        ],
+        "installation_id": "5a835a97-d54b-4e63-b8b9-86f9dfe1f47c",
+        "issued_at": 1790747605,
+        "issuer": "BMSEO Licence Manager",
+        "kid": "ed25519:v1",
+        "license_id": "BMS-LIC-A733AD1112",
+        "license_type": "STANDARD",
+        "product_id": "didi-guli-orders",
+        "request_id": "BMS-REQ-25250AB5",
+        "revision": 1,
+        "status": "ACTIVE",
+        "valid_from": 1790747605
+    },
+    "signature": "DcJQ4J8JyMmCBNNZHRoHJ4UnbZ2TAMUjuSK8QcUC/jLes0w1UnAB+C/6dD9o+pqnTy7w3mo7tEXRaQ09OHiBAw=="
+}
