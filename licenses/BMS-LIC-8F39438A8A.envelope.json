@@ -1,0 +1,24 @@
+{
+    "alg": "Ed25519",
+    "kid": "ed25519:v1",
+    "payload": {
+        "device_hash": "bmseo:cf5906a3fee6257a3cc9263c32a567bb4118684bdef197858f834804bdbbe19c",
+        "expires_at": 1822486680,
+        "features": [
+            "Plugin",
+            "WordPress"
+        ],
+        "installation_id": "49e27dd9-ca5a-40ef-8793-73a97207ccf5",
+        "issued_at": 1790950680,
+        "issuer": "BMSEO Licence Manager",
+        "kid": "ed25519:v1",
+        "license_id": "BMS-LIC-8F39438A8A",
+        "license_type": "STANDARD",
+        "product_id": "rkb-images",
+        "request_id": "BMS-REQ-EEA52E9A",
+        "revision": 1,
+        "status": "ACTIVE",
+        "valid_from": 1790950680
+    },
+    "signature": "yWZcA32hAhcjymJ6vE3dEx43pwlMtWdpjIXo1oJGCD4H86Lekmk/jHLerVv+mTUhBRPol4TpFu9q+3Iiicn+Dg=="
+}
