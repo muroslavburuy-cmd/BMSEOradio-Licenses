@@ -1,14 +1,12 @@
 {
- "appVersion": "0.2.17",
- "bonusDays": 0,
- "computerName": "ADMINTSARUK",
- "deviceHash": "bmseo:f45d2b3e1a7e93acaf7217f05a662e7511e27a2476003de568d439e7817eea4d",
- "deviceKey": "68d439e7817eea4d",
- "firstSeenUtc": 1791050762,
- "installationId": "0ba841c2-b20c-41ed-9352-4d8257277962",
- "product": "BMSEOradio",
- "registeredUtc": 1791050314,
- "schema": 1,
- "modifiedUtc": 1791050762,
- "modifiedBy": "manager-test"
+    "appVersion": "0.2.17",
+    "bonusDays": 0,
+    "computerName": "ADMINTSARUK",
+    "deviceHash": "bmseo:f45d2b3e1a7e93acaf7217f05a662e7511e27a2476003de568d439e7817eea4d",
+    "deviceKey": "68d439e7817eea4d",
+    "firstSeenUtc": 1788794447,
+    "installationId": "0ba841c2-b20c-41ed-9352-4d8257277962",
+    "product": "BMSEOradio",
+    "registeredUtc": 1791050314,
+    "schema": 1
 }
