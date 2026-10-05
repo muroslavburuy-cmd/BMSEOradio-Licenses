@@ -1,0 +1,24 @@
+{
+    "alg": "Ed25519",
+    "kid": "ed25519:v1",
+    "payload": {
+        "device_hash": "bmseo:06a57cc21ede548bf7d05426ef576cc39bf09efd397840f92690c774358b0e46",
+        "expires_at": 1820847908,
+        "features": [
+            "Plugin",
+            "WordPress"
+        ],
+        "installation_id": "852f9bb1-a09d-406b-acd3-9e4c2b3101bc",
+        "issued_at": 1789311908,
+        "issuer": "BMSEO License Manager",
+        "kid": "ed25519:v1",
+        "license_id": "BMS-LIC-DB304A29ED",
+        "license_type": "STANDARD",
+        "product_id": "betonx-telegram",
+        "request_id": "BMS-REQ-8E546B13",
+        "revision": 1,
+        "status": "ACTIVE",
+        "valid_from": 1789311908
+    },
+    "signature": "BMBLzyvgl8x8xbtCH2TOIdG87rel4ulUw9MtT5ezgm4d/QAsTCjLF4tVmVb3iiJdHfSpmSEzB0AoYMZ2VxGCDQ=="
+}
