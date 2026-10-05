@@ -1,0 +1,24 @@
+{
+    "alg": "Ed25519",
+    "kid": "ed25519:v1",
+    "payload": {
+        "device_hash": "bmseo:ffc2cac3b2ade42f701278015855bd598eab7428aa9b21c01f09f48ee62ac3dd",
+        "expires_at": 1797087225,
+        "features": [
+            "Plugin",
+            "WordPress"
+        ],
+        "installation_id": "57e9d7a1-eab5-429f-8663-7c69b5205fa9",
+        "issued_at": 1789311225,
+        "issuer": "BMSEO License Manager",
+        "kid": "ed25519:v1",
+        "license_id": "BMS-LIC-1D0AC5C456",
+        "license_type": "STANDARD",
+        "product_id": "betonx-blog",
+        "request_id": "BMS-REQ-890A6B87",
+        "revision": 1,
+        "status": "ACTIVE",
+        "valid_from": 1789311225
+    },
+    "signature": "UsP1dkGSc5wXh45eBpzh6LUmNriL7Cl5KCcFw3L7Sv982yccjsNAX2YpWfIyjjVNIESADXcwAe+cU6uhJCprDA=="
+}
