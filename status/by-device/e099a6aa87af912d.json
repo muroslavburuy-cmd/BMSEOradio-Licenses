@@ -3,9 +3,9 @@
     "device_hash": "bmseo:8035dd75f02c292ef6248e1dd064712c79953ca4deb5323ee099a6aa87af912d",
     "kid": "ed25519:v1",
     "license_id": "BMS-LIC-4BC2D4B624",
-    "rev": 6,
-    "sig": "1VVbgH6uvEnPXhwAdEtjmRe1LXzs6dlUxT7HF3Moj49Ihehw1qBx8xJY6j2RnPZZfLzwEAb339Rffvk1tmm8AA==",
+    "rev": 5,
+    "sig": "QyarvABcIjyaaqO08zjClzuMXyT0ZhD1Fc7zxgsnUEWrxqpzOinES9sl/NVcLoeWttGj4T/iibH2khWj/rMdBA==",
     "status": "ACTIVE",
-    "updated_utc": 1792730392,
+    "updated_utc": 1792730403,
     "v": 1
 }
