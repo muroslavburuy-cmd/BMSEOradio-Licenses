@@ -1,10 +1,10 @@
 {
-    "appVersion": "0.3.0",
+    "appVersion": "0.3.1",
     "computerName": "ADMINTSARUK",
     "deviceHash": "bmseo:f45d2b3e1a7e93acaf7217f05a662e7511e27a2476003de568d439e7817eea4d",
     "deviceKey": "68d439e7817eea4d",
     "installationId": "0ba841c2-b20c-41ed-9352-4d8257277962",
-    "lastSeenUtc": 1792997082,
+    "lastSeenUtc": 1792998484,
     "licenseId": "BMS-LIC-5729D00926",
     "osInfo": "Windows 11 Version 26H2 / x86_64",
     "product": "BMSEOradio",
