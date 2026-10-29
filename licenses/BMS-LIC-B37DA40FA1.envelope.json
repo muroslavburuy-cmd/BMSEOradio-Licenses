@@ -1,0 +1,24 @@
+{
+    "alg": "Ed25519",
+    "kid": "ed25519:v1",
+    "payload": {
+        "device_hash": "bmseo:fee2bd295f90cf4b9496531b7c5ac0e2d4a4bcfe3b91a44607c33f0badb91f2a",
+        "expires_at": 1824790459,
+        "features": [
+            "Plugin",
+            "WordPress"
+        ],
+        "installation_id": "d2820b79-c5ae-4c6b-9ad2-111219e45e2e",
+        "issued_at": 1793254459,
+        "issuer": "BMSEO Licence Manager",
+        "kid": "ed25519:v1",
+        "license_id": "BMS-LIC-B37DA40FA1",
+        "license_type": "STANDARD",
+        "product_id": "medex-blog-admin",
+        "request_id": "BMS-REQ-C53E9E8D",
+        "revision": 1,
+        "status": "ACTIVE",
+        "valid_from": 1793254459
+    },
+    "signature": "HOiv/M0m4sQAPV6FKPT+1cuhvEkMkekqBp66ghpIBl5BVvmdNI0XHuQAPXsHD0WPLuYhaL9+e31e4n3E/L/BDw=="
+}
