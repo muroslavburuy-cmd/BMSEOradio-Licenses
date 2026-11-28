@@ -1,0 +1,24 @@
+{
+    "alg": "Ed25519",
+    "kid": "ed25519:v1",
+    "payload": {
+        "device_hash": "bmseo:d4f6ca4cb49cdd9d9d25f87697934247686ebab80dc3f9deba53e078bd431a2d",
+        "expires_at": 1827381123,
+        "features": [
+            "Plugin",
+            "WordPress"
+        ],
+        "installation_id": "29b3576c-e10b-4887-9931-d0df712b327e",
+        "issued_at": 1795845123,
+        "issuer": "BMSEO Licence Manager",
+        "kid": "ed25519:v1",
+        "license_id": "BMS-LIC-B54C52DB92",
+        "license_type": "STANDARD",
+        "product_id": "prostir-seo",
+        "request_id": "BMS-REQ-69FBFDF9",
+        "revision": 1,
+        "status": "ACTIVE",
+        "valid_from": 1795845123
+    },
+    "signature": "gJ4pbvbA+ucBAYnH+LN+tCHKND+jJig/3yX0IOjFMqik2s42goeOE7VNnF/j7oIPxiZ/2AatUSAvhZhwCh+bDw=="
+}
